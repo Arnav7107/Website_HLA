@@ -21,7 +21,7 @@ export default function Team() {
   ];
   const teamsCard = (teamMember) => {
     return (
-      <div
+      <div className="card"
         style={{
           backgroundColor: "#FFF3E2",
           borderRadius: 20,

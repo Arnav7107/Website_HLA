@@ -3,7 +3,7 @@ import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
 import Event from "./Event";
 import { eventData, responsive } from "./eventData";
-
+import './App.css';
 import Navbar from "./Navbar";
 import Backimg from "./Backimg";
 import About from "./About";
